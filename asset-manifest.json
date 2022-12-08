@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e323e8b.css",
+    "main.js": "/static/js/main.fc621d58.js",
+    "static/js/787.a1d28e5d.chunk.js": "/static/js/787.a1d28e5d.chunk.js",
+    "static/media/lionfish.png": "/static/media/lionfish.42b5a041fb4173f908dd.png",
+    "static/media/aquarium.jpg": "/static/media/aquarium.905c0ce9effdc5127ad9.jpg",
+    "static/media/clownfish.png": "/static/media/clownfish.0c40d4df034d69ffe0db.png",
+    "static/media/triggerfish.png": "/static/media/triggerfish.6e2d7380011e770689fd.png",
+    "static/media/parrotfish.png": "/static/media/parrotfish.1d91ad616ee56c2f6263.png",
+    "static/media/mandarinfish.png": "/static/media/mandarinfish.7da411d50cef4bce5400.png",
+    "static/media/kudaseahorse.png": "/static/media/kudaseahorse.c69fd3d8929f739ca445.png",
+    "static/media/seaturtle.png": "/static/media/seaturtle.d9bed6b1f55695490180.png",
+    "static/media/butterflyfish.png": "/static/media/butterflyfish.03b4033524cb35ee56d6.png",
+    "static/media/wrasse.png": "/static/media/wrasse.d2beeb1791569096d03f.png",
+    "static/media/catshark.png": "/static/media/catshark.d9d7b2c3b0bb2fd72f4e.png",
+    "static/media/angelfish.png": "/static/media/angelfish.3a820762c84a7d498aff.png",
+    "index.html": "/index.html",
+    "main.1e323e8b.css.map": "/static/css/main.1e323e8b.css.map",
+    "main.fc621d58.js.map": "/static/js/main.fc621d58.js.map",
+    "787.a1d28e5d.chunk.js.map": "/static/js/787.a1d28e5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e323e8b.css",
+    "static/js/main.fc621d58.js"
+  ]
+}
