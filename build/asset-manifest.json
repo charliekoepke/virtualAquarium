@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/virtualAquarium/static/css/main.ef273e47.css",
-    "main.js": "/virtualAquarium/static/js/main.02549a1c.js",
-    "static/js/787.a1d28e5d.chunk.js": "/virtualAquarium/static/js/787.a1d28e5d.chunk.js",
-    "static/media/lionfish.png": "/virtualAquarium/static/media/lionfish.42b5a041fb4173f908dd.png",
-    "static/media/aquarium.jpg": "/virtualAquarium/static/media/aquarium.905c0ce9effdc5127ad9.jpg",
-    "static/media/clownfish.png": "/virtualAquarium/static/media/clownfish.0c40d4df034d69ffe0db.png",
-    "static/media/triggerfish.png": "/virtualAquarium/static/media/triggerfish.6e2d7380011e770689fd.png",
-    "static/media/parrotfish.png": "/virtualAquarium/static/media/parrotfish.1d91ad616ee56c2f6263.png",
-    "static/media/mandarinfish.png": "/virtualAquarium/static/media/mandarinfish.7da411d50cef4bce5400.png",
-    "static/media/kudaseahorse.png": "/virtualAquarium/static/media/kudaseahorse.c69fd3d8929f739ca445.png",
-    "static/media/seaturtle.png": "/virtualAquarium/static/media/seaturtle.d9bed6b1f55695490180.png",
-    "static/media/butterflyfish.png": "/virtualAquarium/static/media/butterflyfish.03b4033524cb35ee56d6.png",
-    "static/media/wrasse.png": "/virtualAquarium/static/media/wrasse.d2beeb1791569096d03f.png",
-    "static/media/catshark.png": "/virtualAquarium/static/media/catshark.d9d7b2c3b0bb2fd72f4e.png",
-    "static/media/angelfish.png": "/virtualAquarium/static/media/angelfish.3a820762c84a7d498aff.png",
-    "index.html": "/virtualAquarium/index.html",
-    "main.ef273e47.css.map": "/virtualAquarium/static/css/main.ef273e47.css.map",
-    "main.02549a1c.js.map": "/virtualAquarium/static/js/main.02549a1c.js.map",
-    "787.a1d28e5d.chunk.js.map": "/virtualAquarium/static/js/787.a1d28e5d.chunk.js.map"
+    "main.css": "./static/css/main.939f4e51.css",
+    "main.js": "./static/js/main.700aab1d.js",
+    "static/js/787.a1d28e5d.chunk.js": "./static/js/787.a1d28e5d.chunk.js",
+    "static/media/lionfish.png": "./static/media/lionfish.42b5a041fb4173f908dd.png",
+    "static/media/aquarium.jpg": "./static/media/aquarium.905c0ce9effdc5127ad9.jpg",
+    "static/media/clownfish.png": "./static/media/clownfish.0c40d4df034d69ffe0db.png",
+    "static/media/triggerfish.png": "./static/media/triggerfish.6e2d7380011e770689fd.png",
+    "static/media/parrotfish.png": "./static/media/parrotfish.1d91ad616ee56c2f6263.png",
+    "static/media/mandarinfish.png": "./static/media/mandarinfish.7da411d50cef4bce5400.png",
+    "static/media/kudaseahorse.png": "./static/media/kudaseahorse.c69fd3d8929f739ca445.png",
+    "static/media/seaturtle.png": "./static/media/seaturtle.d9bed6b1f55695490180.png",
+    "static/media/butterflyfish.png": "./static/media/butterflyfish.03b4033524cb35ee56d6.png",
+    "static/media/wrasse.png": "./static/media/wrasse.d2beeb1791569096d03f.png",
+    "static/media/catshark.png": "./static/media/catshark.d9d7b2c3b0bb2fd72f4e.png",
+    "static/media/angelfish.png": "./static/media/angelfish.3a820762c84a7d498aff.png",
+    "index.html": "./index.html",
+    "main.939f4e51.css.map": "./static/css/main.939f4e51.css.map",
+    "main.700aab1d.js.map": "./static/js/main.700aab1d.js.map",
+    "787.a1d28e5d.chunk.js.map": "./static/js/787.a1d28e5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef273e47.css",
-    "static/js/main.02549a1c.js"
+    "static/css/main.939f4e51.css",
+    "static/js/main.700aab1d.js"
   ]
 }
